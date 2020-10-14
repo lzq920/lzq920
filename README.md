@@ -12,5 +12,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzq920&repo=vue-admin-template"/>
 </a>
 
+<a href="https://github.com/lzq920/nuxt-eggjs-ssr-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzq920&repo=nuxt-eggjs-ssr-template"/>
+</a>
 
+<a href="https://github.com/lzq920/nuxt-thinkjs-ssr-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzq920&repo=nuxt-thinkjs-ssr-template"/>
+</a>
+
+<a href="https://github.com/lzq920/frontend-tools-for-mac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lzq920&repo=frontend-tools-for-mac"/>
+</a>
 
